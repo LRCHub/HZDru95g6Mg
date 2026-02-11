@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Lucky Girl Syndrome",
+  "base_artist": "ILLIT",
+  "createdAt": "2026-02-11T19:56:03.518509Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lucky Girl Syndrome",
+      "artist": "Samantha Leah",
+      "has_synced": true,
+      "path": "select/01_Lucky_Girl_Syndrome_Samantha_Leah.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lucky Girl Syndrome",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/02_Lucky_Girl_Syndrome_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lucky Girl Syndrome",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/03_Lucky_Girl_Syndrome_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lucky Girl Syndrome",
+      "artist": "Katie Lynne Sharbaugh",
+      "has_synced": true,
+      "path": "select/04_Lucky_Girl_Syndrome_Katie_Lynne_Sharbaugh.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lucky Girl Syndrome",
+      "artist": "아일릿(ILLIT)",
+      "has_synced": true,
+      "path": "select/05_Lucky_Girl_Syndrome_아일릿(ILLIT).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lucky Girl Syndrome",
+      "artist": "아일릿 (ILLIT)",
+      "has_synced": true,
+      "path": "select/06_Lucky_Girl_Syndrome_아일릿_(ILLIT).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lucky Girl Syndrome (sped up)",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/07_Lucky_Girl_Syndrome_(sped_up)_ILLIT.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lucky Girl Syndrome",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/08_Lucky_Girl_Syndrome_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lucky Girl Syndrome (Paused)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/09_Lucky_Girl_Syndrome_(Paused)_ILLIT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lucky Girl Syndrome",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/pl_01_Lucky_Girl_Syndrome_ILLIT.txt"
+    }
+  ]
+}
